@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "paperai-docs"
-  text: "paperai docs"
-  tagline: My great project tagline
+  text: "paperai 文档"
+  tagline: 我只想快点水完论文
   actions:
     - theme: brand
       text: paperai-function 功能
