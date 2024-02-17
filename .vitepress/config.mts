@@ -4,7 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "paperai-docs",
   description: "paperai docs",
-  base: "/paper-ai/",
+  base: "/paper-doc/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
