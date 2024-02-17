@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as i,V as e}from"./chunks/framework.DP3owusd.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"paperai-deploy.md","filePath":"paperai-deploy.md"}'),t={name:"paperai-deploy.md"},n=e("",9),p=[n];function l(h,r,k,o,d,c){return i(),a("div",null,p)}const C=s(t,[["render",l]]);export{g as __pageData,C as default};
