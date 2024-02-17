@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "paperai-docs",
+  title: "www.paperai.life",
   description: "paperai docs",
   head: [["link", { rel: "icon", href: "public/favicon.ico" }]],
   // base: "/paperai-doc/",
@@ -13,6 +13,10 @@ export default defineConfig({
       {
         text: "GitHub",
         link: "https://github.com/14790897/paper-ai",
+      },
+      {
+        text: "website",
+        link: "https://www.paperai.life",
       },
     ],
 
@@ -30,8 +34,6 @@ export default defineConfig({
       },
     ],
 
-    socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
-    ],
+    socialLinks: [{ icon: "github", link: "https://t.me/+Wepuy5fpPV04YTU1" }],
   },
 });
