@@ -8,17 +8,17 @@ hero:
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: paperai-function
+      text: paperai-function 功能
       link: /paperai-function
     - theme: brand
-      text: paperai-deploy
+      text: paperai-deploy 部署
       link: /paperai-deploy
     - theme: brand
-      text: paperai-env
+      text: paperai-env 环境变量
       link: /paperai-env
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+    # - theme: alt
+    #   text: API Examples
+    #   link: /api-examples
 
 features:
   - title: Feature 1 使用真实文献
