@@ -6,7 +6,7 @@ export default defineConfig({
   description: "paperai docs",
   // base: "/paperai-doc/",
   themeConfig: {
-    logo: "/public/favicon.ico",
+    logo: "/favicon.ico",
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
