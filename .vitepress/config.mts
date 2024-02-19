@@ -4,9 +4,9 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "www.paperai.life",
   description: "paperai docs",
-  head: [["link", { rel: "icon", href: "public/favicon.ico" }]],
   // base: "/paperai-doc/",
   themeConfig: {
+    logo: "/public/favicon.ico",
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
