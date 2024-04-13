@@ -14,7 +14,7 @@ sidebar: auto
 
 - **云同步及多篇论文编辑功能**：此功能暂定收费二十元人民币永久开通，请点击左上角列表按钮进行购买，购买前需要注册账号
 
-![](https://file.liuweiqing.life/2024/02/558e11d675d6a07dedbcfdc5ab8d072f.png)
+![](https://file.paperai.life/2024/02/558e11d675d6a07dedbcfdc5ab8d072f.png)
 
 ## 具体使用方法
 
