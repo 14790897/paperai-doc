@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "www.paperai.life",
+  title: "paperai.14790897.xyz",
   description: "paperai docs",
   // base: "/paperai-doc/",
   themeConfig: {
@@ -16,13 +16,13 @@ export default defineConfig({
       },
       {
         text: "website",
-        link: "https://www.paperai.life",
+        link: "https://paperai.14790897.xyz",
       },
     ],
 
     sidebar: [
       {
-        text: "www.paperai.life",
+        text: "paperai.14790897.xyz",
         items: [
           // { text: "Markdown Examples", link: "/markdown-examples" },
           // { text: "Runtime API Examples", link: "/api-examples" },
